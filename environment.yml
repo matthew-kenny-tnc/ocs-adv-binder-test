@@ -1,4 +1,4 @@
-name: ocs-advanced-binder
+name: ocs-advanced-binder-2
 channels:
   - conda-forge
 dependencies:
