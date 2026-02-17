@@ -11,15 +11,10 @@ dependencies:
   - zarr=2.18.3
   - rioxarray=0.17.0
   - geopandas=1.0.1
-  ## Shapely==2.1.2 is actually installed
   - shapely=2.0.6
-  ## numpy==2.4.2 is actually installed
   - numpy=2.0.2
-  ## pandas==3.0.0 is actually installed
   - pandas=2.2.3
-  ## matplotlib==3.10.8 is actually installed
   - matplotlib=3.9.2
-  ## holoview==1.22.1 is actually installed
   - holoviews=1.19.1
   - cartopy=0.24.0
   ## geoviews is not imported
@@ -27,9 +22,7 @@ dependencies:
   ## datashader is not imported
   - datashader=0.16.3
   - hvplot=0.11.1
-  ## scikit_learn==1.8.0 is installed
   - scikit-learn=1.5.2
-  ## xgboost==3.2.0 is installed
   - xgboost=2.1.1
   - s3fs=2024.10.0
   - dask=2024.10.0
@@ -44,7 +37,6 @@ dependencies:
   ## beautiful soup is not imported
   - beautifulsoup4=4.12.3
   - stackstac=0.5.1
-  ## fsspec==2026.2.0 is installed
   - fsspec=2024.10.0
   ## seaborn is not imported
   - seaborn=0.13.2
@@ -52,9 +44,7 @@ dependencies:
   - requests=2.32.3
   ## mysytmd is not imported
   - mystmd
-  ## metpy 1.7.1 is installed
   - metpy
-  ## boto3==1.40.170 is installed
   - boto3
   - pip
   - pip:
