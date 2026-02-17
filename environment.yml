@@ -1,7 +1,6 @@
 name: ocs-advanced-binder
 channels:
   - conda-forge
-  - defaults
 dependencies:
   - python=3.12
   - ipykernel=6.29.5
