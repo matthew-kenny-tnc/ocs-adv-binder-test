@@ -1,2 +1,3 @@
 # ocs-adv-binder-test
-personal space for experimentation on python envs for binder (advanced workshop)
+
+**Launch Advanced Module Notebooks:** [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/matthew-kenny-tnc/ocs-adv-binder-test/main)
